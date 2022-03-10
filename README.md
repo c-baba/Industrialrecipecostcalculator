@@ -10,6 +10,7 @@ Open main.exe or run main.py
 
 Main Screen
 
+
 https://imgur.com/KV7Kp7s
 
 Price of Ingredients Menu
