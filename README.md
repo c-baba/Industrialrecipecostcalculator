@@ -6,7 +6,7 @@ Requirements
 I hope only python 3.10
 
 ----------------How to Use?------------------------------------
-
+Open main.exe or run main.py
 
 Main Screen
 
