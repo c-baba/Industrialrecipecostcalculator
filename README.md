@@ -10,18 +10,17 @@ I hope only python 3.10
 
 Main Screen
 
-![alt text](https://imgur.com/KV7Kp7s)
+(https://imgur.com/KV7Kp7s)
 
 Price of Ingredients Menu
 
 With this menu, you can keep the records you want about your auxiliary materials and get reports about them.
-
-![alt text](https://imgur.com/qZxHvMP)
+(https://imgur.com/qZxHvMP)
 
 Ingredient Report Screen
 
 
-![alt text](https://imgur.com/vxmsF8v)
+(https://imgur.com/vxmsF8v)
 
 ![alt text](https://imgur.com/sw0wnCd)
 
